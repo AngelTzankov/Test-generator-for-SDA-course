@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1602669083 source:c:\users\acho\documents\uni\test-generator-for-sda-course\testsgenerator\main.cpp
+	"TestsDataGenerator.h"
+	"TestsOutputGenerator.h"
+
+1602669163 source:c:\users\acho\documents\uni\test-generator-for-sda-course\testsgenerator\src\testsoutputgenerator.cpp
+	"TestsOutputGenerator.h"
+
+1602669114 c:\users\acho\documents\uni\test-generator-for-sda-course\testsgenerator\include\testsoutputgenerator.h
+	<iostream>
+	<fstream>
+
+1602669175 source:c:\users\acho\documents\uni\test-generator-for-sda-course\testsgenerator\src\testsdatagenerator.cpp
+	"TestsDataGenerator.h"
+
+1602668586 c:\users\acho\documents\uni\test-generator-for-sda-course\testsgenerator\include\testsdatagenerator.h
+	<iostream>
+	<fstream>
+
